@@ -1,6 +1,6 @@
 # Bathroom Remodel Task List
 
----
+[Materials List](https://docs.google.com/spreadsheets/d/1Uye_KnBVwiA66lSWBx43uSiD5_YzCsYk-MWyENiruzA/edit?gid=0#gid=0)
 
 ### Before start
 - [ ] Gather tools, rent concrete saw & rebar scanner, pick up drain fittings and 2" ABS pipe
